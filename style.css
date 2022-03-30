@@ -1,0 +1,67 @@
+/** @format */
+.header-container {
+  background-image: url("https://i.ibb.co/kxNSmXz/222.jpg");
+  background-color: yellow;
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.header-title {
+  position: absolute;
+  transform: translateY(50%);
+}
+
+.p-item {
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  background-blend-mode: multiply;
+  height: 400px;
+}
+
+.prog1 {
+  background-image: url("https://i.ibb.co/RBknkSR/pg1.webp");
+  background-color: rgb(109, 109, 109);
+}
+
+.prog2 {
+  background-image: url("https://i.ibb.co/HpfYCJy/2.jpg");
+  background-color: rgb(92, 180, 180);
+}
+
+.prog3 {
+  background-image: url("https://i.ibb.co/dBjz1yt/pg3.webp");
+  background-color: rgb(6, 185, 209);
+}
+
+.prog4 {
+  background-image: url("https://i.ibb.co/6vDXJTz/pg4.webp");
+  background-color: rgb(235, 179, 76);
+}
+
+.card-content {
+  position: absolute;
+  transform: translateY(50%);
+}
+
+.card-content1 {
+  position: absolute;
+  transform: translateY(40%);
+}
+
+.why-us {
+  background-image: url("http://dslv9ilpbe7p1.cloudfront.net/eS63RLbKSLZn6vRBA66kVw_store_banner_image.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #5a5959;
+  background-blend-mode: multiply;
+}
+
+.footer {
+  background-image: url("https://i.ibb.co/qxCFQXP/footer.webp");
+  background-size: cover;
+  background-color: #313131;
+  background-blend-mode: multiply;
+}
